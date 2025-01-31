@@ -9,7 +9,7 @@ def multiply(a, b):
 
 def divide(a, b):
     if b == 0:
-        return "Error: Division by zero"
+        return "Ошибка: деление на ноль"
     return a / b
 def main():
     print("Welcome to the Python Calculator!")
